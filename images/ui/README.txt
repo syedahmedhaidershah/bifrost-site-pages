@@ -1,0 +1,1 @@
+approved by the operator on 2026-11-05: dashboard, projects, tasks, logs-chat, settings-execution-modes (the other five candidates stay in BACKUPS/site/public/images/ui). Only names listed in approved.json may be used on a page.

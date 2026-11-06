@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" role="img" aria-labelledby="edgekit-title">
+  <title id="edgekit-title">EdgeKit</title>
+  <rect width="480" height="300" fill="#0D0F14"/>
+  <g transform="translate(180 30)" fill="none" stroke-width="4" stroke-linecap="round">
+    <path d="M24 92 C34 52 46 12 60 12" stroke="#E25C5C"/>
+    <path d="M60 12 C74 12 86 52 96 92" stroke="#4A69E2"/>
+    <path d="M36 92 C44 60 50 36 60 36" stroke="#E25C5C" stroke-width="3"/>
+    <path d="M60 36 C70 36 76 60 84 92" stroke="#4A69E2" stroke-width="3"/>
+    <path d="M2 66 C18 66 30 62 40 56" stroke="#E25C5C" stroke-width="3"/>
+    <path d="M80 58 C92 60 104 60 118 60" stroke="#4A69E2" stroke-width="3"/>
+    <path d="M78 74 C92 74 104 76 118 78" stroke="#4A69E2" stroke-width="3"/>
+  </g>
+  <text x="240" y="200" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="40" letter-spacing="6" fill="#F5F7FA">EdgeKit</text>
+  <text x="240" y="236" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#F5F7FA">SECURE EDGE ROUTING &amp; CONTAINER HOSTING</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 280" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Bifrost">
+  <path d="M50 255 C90 170 120 10 180 10 C240 10 270 170 305 255" stroke="#0D0F14" stroke-width="11"/>
+  <path d="M85 255 C115 180 140 40 180 40 C220 40 250 180 280 255" stroke="#4A69E2" stroke-width="11"/>
+  <path d="M5 165 C50 160 80 135 130 130 L200 126" stroke="#0D0F14" stroke-width="9"/>
+  <path d="M5 200 C50 195 90 190 120 172 C150 154 170 146 215 146" stroke="#E25C5C" stroke-width="9"/>
+  <path d="M265 170 C290 168 320 168 355 166" stroke="#4A69E2" stroke-width="9"/>
+  <path d="M265 196 C300 196 325 196 355 196" stroke="#0D0F14" stroke-width="9"/>
+</svg>
